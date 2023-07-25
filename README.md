@@ -1,2 +1,3 @@
-# chatlize
+# Chatlize.ai
+
 https://Chatlize.ai
